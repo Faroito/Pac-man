@@ -12,8 +12,8 @@ To improve this Epitech's project, I re-code an other game : pac-man, which allo
 First you need to install the ncurses library.
 
 Then it's very simple :
-     - To have some information about the game : ./my_pac_man -h
-     - To play : ./my_pac_man maps/original_1
+   * To have some information about the game : ./my_pac_man -h
+   * To play : ./my_pac_man maps/original_1
 
 *Tips : You can create your own maps !*
 
