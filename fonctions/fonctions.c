@@ -9,8 +9,6 @@
 */
 
 #include "../include/my.h"
-#include <ncurses.h>
-#include <unistd.h>
 
 t_coords	my_size(char *buffer, int size_buff, t_coords size)
 {

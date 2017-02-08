@@ -1,5 +1,5 @@
 /*
-** my_pac_man.c for my_pac_man in /home/timothee.couble/Epitech/Unix_System/PSU_2016_my_popup
+** my_pac_man.c for my_pac_man in /home/timothee.couble/Epitech/Unix_System/PSU_2016_my_sokoban
 ** 
 ** Made by Timothée Couble
 ** Login   <timothee.couble@epitech.net>
@@ -8,9 +8,7 @@
 ** Last update Wed Feb  8 13:36:46 2017 Timothée Couble
 */
 
-#include <ncurses.h>
 #include "../include/my.h"
-#include <unistd.h>
 
 int	is_life(char **map, t_coords player, t_coords *phantom)
 {

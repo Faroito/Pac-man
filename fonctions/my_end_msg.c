@@ -9,7 +9,6 @@
 */
 
 #include "../include/my.h"
-#include <ncurses.h>
 
 int	you_win(t_coords player)
 {

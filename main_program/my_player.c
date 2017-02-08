@@ -8,7 +8,6 @@
 ** Last update Tue Dec 20 23:35:44 2016 Timothée Couble
 */
 
-#include <ncurses.h>
 #include "../include/my.h"
 
 t_coords	add_player(int x, int y, char buffer, t_coords player)

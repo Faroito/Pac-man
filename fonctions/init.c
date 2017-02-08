@@ -9,7 +9,6 @@
 */
 
 #include "../include/my.h"
-#include <ncurses.h>
 
 long	pseudo_alea(long rand_seed)
 {

@@ -11,6 +11,12 @@
 #ifndef MY_H_
 # define MY_H_
 
+#include <fcntl.h>
+#include <unistd.h>
+#include <stdlib.h>
+#include <sys/stat.h>
+#include <ncurses.h>
+
 #include "pac_man.h"
 
 void    my_putchar(char c);

@@ -1,5 +1,5 @@
 /*
-** main.c for main in /home/timothee.couble/Epitech/C_Prog_Elem/CPE_2016_BSQ
+** main.c for main in /home/timothee.couble/Epitech/Unix_System/PSU-2016-my-sokoban
 ** 
 ** Made by Timothée Couble
 ** Login   <timothee.couble@epitech.net>
@@ -9,11 +9,6 @@
 */
 
 #include "../include/my.h"
-#include <fcntl.h>
-#include <unistd.h>
-#include <stdlib.h>
-#include <sys/stat.h>
-#include <ncurses.h>
 
 t_coords	attribute_tab(char *buffer, int size_buff,
 			      char **map, t_coords player)
