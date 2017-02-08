@@ -1,1 +1,6 @@
-# Pac-man-ncurses
+# Pac-man :
+
+Couleur
+Centré
+Score
+IA
