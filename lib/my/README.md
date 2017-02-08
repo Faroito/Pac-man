@@ -1,1 +1,0 @@
-This library contain all my basic fonctions I use to print characters, strings, numbers.
