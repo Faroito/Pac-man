@@ -8,7 +8,7 @@
 ** Last update Tue Dec 20 23:33:01 2016 Timothée Couble
 */
 
-#include "include/my.h"
+#include "../include/my.h"
 
 t_coords	move_phantom_x(char **map, t_coords phantom, int x)
 {

@@ -8,7 +8,7 @@
 ** Last update Wed Dec 21 14:42:25 2016 Timothée Couble
 */
 
-#include "include/my.h"
+#include "../include/my.h"
 #include <ncurses.h>
 
 long	pseudo_alea(long rand_seed)

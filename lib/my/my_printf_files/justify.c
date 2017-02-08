@@ -8,7 +8,7 @@
 ** Last update Wed Nov 23 14:02:49 2016 Timothée Couble
 */
 
-#include "../../include/my_printf.h"
+#include "../../../include/my_printf.h"
 
 void	print_justify(int nb, int type)
 {

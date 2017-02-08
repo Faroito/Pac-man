@@ -6,7 +6,7 @@
 ** Last update Wed Nov 23 14:16:19 2016 Timothée Couble
 */
 
-#include "../../include/my_printf.h"
+#include "../../../include/my_printf.h"
 #include <stdarg.h>
 
 void	my_put_str(va_list args, int *justify, int length)

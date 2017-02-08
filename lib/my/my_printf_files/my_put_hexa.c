@@ -8,7 +8,7 @@
 ** Last update Wed Nov 23 14:04:31 2016 Timothée Couble
 */
 
-#include "../../include/my_printf.h"
+#include "../../../include/my_printf.h"
 #include <stdarg.h>
 
 void	calcul_hexa(long long nb, int plus)

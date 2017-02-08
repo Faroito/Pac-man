@@ -8,7 +8,7 @@
 ** Last update Tue Dec 20 23:35:16 2016 Timothée Couble
 */
 
-#include "include/my.h"
+#include "../include/my.h"
 
 int	phantom_turn_y(char **map, t_coords phantom)
 {

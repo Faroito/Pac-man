@@ -9,7 +9,7 @@
 */
 
 #include <ncurses.h>
-#include "include/my.h"
+#include "../include/my.h"
 #include <unistd.h>
 
 int	is_life(char **map, t_coords player, t_coords *phantom)

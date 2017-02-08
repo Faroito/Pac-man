@@ -53,8 +53,6 @@ SRC	=	my_find_prime_sup.c	\
 
 OBJ	=	$(SRC:.c=.o)
 
-CFLAGS	+=      -W -Wall -Wextra -pedantic
-
 NAME	=	libmy.a
 
 AR	=	ar rc
@@ -64,7 +62,7 @@ RM	=	rm -f
 all:	libr clean
 
 libr:	$(OBJ)
-	$(AR) $(NAME) $(OBJ) $(CFLAGS)
+	$(AR) $(NAME) $(OBJ)
 
 clean:
 	$(RM) $(OBJ)

@@ -9,7 +9,7 @@
 */
 
 #include <ncurses.h>
-#include "include/my.h"
+#include "../include/my.h"
 
 t_coords	add_player(int x, int y, char buffer, t_coords player)
 {

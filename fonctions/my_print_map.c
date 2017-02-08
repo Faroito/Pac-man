@@ -8,7 +8,7 @@
 ** Last update Wed Dec 21 14:46:03 2016 Timothée Couble
 */
 
-#include "include/my.h"
+#include "../include/my.h"
 #include <ncurses.h>
 
 void	color_pac_man(char **map, t_coords player, t_coords size)

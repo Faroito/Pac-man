@@ -9,7 +9,7 @@
 */
 
 #include <stdlib.h>
-#include "../../include/my_printf.h"
+#include "../../../include/my_printf.h"
 
 int	number(char *str, int i)
 {

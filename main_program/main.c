@@ -8,7 +8,7 @@
 ** Last update Tue Dec 20 23:23:18 2016 Timothée Couble
 */
 
-#include "include/my.h"
+#include "../include/my.h"
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdlib.h>

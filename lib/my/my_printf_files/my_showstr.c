@@ -8,7 +8,7 @@
 ** Last update Wed Nov 23 14:16:33 2016 Timothée Couble
 */
 
-#include "../../include/my_printf.h"
+#include "../../../include/my_printf.h"
 
 void	show_str(char str)
 {

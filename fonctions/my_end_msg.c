@@ -8,7 +8,7 @@
 ** Last update Wed Dec 21 14:46:00 2016 Timothée Couble
 */
 
-#include "include/my.h"
+#include "../include/my.h"
 #include <ncurses.h>
 
 int	you_win(t_coords player)

@@ -8,7 +8,7 @@
 ** Last update Wed Jan  4 11:28:48 2017 Timothée Couble
 */
 
-#include "include/my.h"
+#include "../include/my.h"
 #include <ncurses.h>
 #include <unistd.h>
 

@@ -8,7 +8,7 @@
 ** Last update Tue Dec 20 23:34:27 2016 Timothée Couble
 */
 
-#include "include/my.h"
+#include "../include/my.h"
 
 t_coords	goto_pac_man_x(char **map, t_coords phantom, t_coords player)
 {

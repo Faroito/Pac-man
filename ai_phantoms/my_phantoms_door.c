@@ -8,7 +8,7 @@
 ** Last update Tue Dec 20 23:33:55 2016 Timothée Couble
 */
 
-#include "include/my.h"
+#include "../include/my.h"
 
 t_coords	find_door(char **map)
 {
