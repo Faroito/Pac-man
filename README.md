@@ -4,4 +4,4 @@ The main goal of this project was to descover ncurses (library that allows the d
 The original project was to re-code a small japan puzzle game : Sokoban. 
 To improve this Epitech's project, I re-code an other game : pac-man, which allow me to discover the artificial intelligence and pseudo random.
 
-(img/pac_man.png)
+[Image](img/pac_man.png)
