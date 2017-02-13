@@ -1,5 +1,5 @@
-## The phantoms's ai :
+## The phantoms's AI :
 
 In order to create the enemy of pac man, I did some AI.
 
-These phantoms go, the most of the time, in direction of the player. Otherwise they go in a random direction.
+These phantoms go, most of the time, in direction of the player. Otherwise they keep going in a random direction.

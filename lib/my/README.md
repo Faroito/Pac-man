@@ -1,3 +1,3 @@
 ## Epitech library :
 
-I create this library at the beginning of my studies to learn how the C library was made. We use it now to replace all the small C fonctions.
+I created this library at the beginning of my studies to learn how the C library worked. We keep on using it now in all our projects as a replacement to all the small C fonctions.
