@@ -7,7 +7,7 @@ The original goal was to re-code a small japan puzzle game : Sokoban.
 
 To improve the original project, I re-coded an other game : pac-man, which allowed me to improve in matters of artificial intelligence and pseudo rando.
 
-![alt tag](./screenshot.png)
+![alt tag](.screenshot.png)
 
 ## How to use :
 
