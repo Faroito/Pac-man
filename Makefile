@@ -36,7 +36,6 @@ all:	$(NAME)
 
 $(NAME):        $(OBJ)
 	$(GCC) $(NAME) $(OBJ) $(LIB) $(CFLAGS)
-	$(RM) $(OBJ)
 
 clean:
 	$(RM) $(OBJ)
